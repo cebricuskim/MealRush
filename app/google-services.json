@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34254862617",
+    "project_id": "mealrush-131df",
+    "storage_bucket": "mealrush-131df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34254862617:android:7e95aa2065d6c6e0172d88",
+        "android_client_info": {
+          "package_name": "com.example.mealrushapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34254862617-b447c13018nqns2ellv7rlpk37uj1h3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mealrushapplication",
+            "certificate_hash": "6404ddd805e6d052528761a3cda22c622d6a5ec5"
+          }
+        },
+        {
+          "client_id": "34254862617-qb1f3r1fqs0t7om1l4fr3pogji8ukrhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mealrushapplication",
+            "certificate_hash": "dac7d55422604300252e53117e418cfd746689c0"
+          }
+        },
+        {
+          "client_id": "34254862617-ine2udj6jnipgbguaje7s5b6dkaac12h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdYSZpQPr6-1RVERD-sojlHGkRWC_RrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34254862617-ine2udj6jnipgbguaje7s5b6dkaac12h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
